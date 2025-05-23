@@ -8,6 +8,8 @@
 > Brochure is displayed in markdown format and can be copied to clip board.
 > Brochure can also be downloaded in `pdf` format.
 
+🎥 Check out the [YouTube tutorial](https://youtu.be/WfNPbak-1mM) for a detailed discussion & step-by-step guide, and stay tuned for more GenAI projects! 🌐
+
 ## App High Level Design
 
 ![Abstract](/shared/readme-design.png)
